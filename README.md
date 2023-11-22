@@ -1,4 +1,4 @@
-# Sistela de Gestão Escolar
+# Sistema de Gestão Escolar
 Páginas referente ao cadastro de uma escola.
 
 # Telas:
